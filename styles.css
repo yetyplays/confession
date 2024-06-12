@@ -64,7 +64,7 @@ body{
   text-align: center;
   transition: all 1s ease-in-out;
   box-shadow: 0 0 5px var(--shadow-color);
-  padding: 25px 10px;
+  padding: 22px 10px;
 }
 
 .envelope > .letter > .text {
