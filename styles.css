@@ -17,14 +17,6 @@ body{
   align-items: center;
   justify-content: center;
 }
-.center-link {
-            display: block;
-            margin: 0 auto;
-            font-size: 30px;
-            font-weight: bold;
-            text-align: center;
-            width: fit-content; /* Adjust the width as needed */
-            padding: 10px;
 .container {
   width: auto;
   height: 100vh;
